@@ -1,0 +1,9 @@
+{
+  "products": [
+    { "id":1, "code": "P1000","nom": "café", "prixUnitaire": 1500.2 },
+    { "id":2, "code": "P2000","nom": "jus", "prixUnitaire": 1540.2 },
+    { "id":3, "code": "P3000","nom": "faz", "prixUnitaire": 560.2 },
+    { "id":4, "code": "P4000","nom": "azf", "prixUnitaire": 546.2 }
+  ]
+  
+}
